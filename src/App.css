@@ -1,0 +1,33 @@
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+.slider {
+  height: 500px;
+  min-width: 2100px;
+  margin: 0 auto;
+}
+.carousel-caption {
+  top: 200px;
+}
+.sr {
+  margin-right: 20px;
+}
+.cards, .boxs {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+.image {
+  height: 400px;
+  width: 100%;
+}
+.legends {
+  height: 200px;
+  width: 100%;
+}
+.media {
+  height: 150px;
+  width: 100%;
+}
